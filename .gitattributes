@@ -1,0 +1,10 @@
+*.pptx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ndjson text
+outputs/*_Deck*/slide-*.png linguist-generated=true
+outputs/*_pdf_pages/page-*.png linguist-generated=true
+outputs/*.inspect.ndjson linguist-generated=true
+

@@ -1,0 +1,724 @@
+{"kind":"deck","id":"pr/wbgtxs","name":"Deck"}
+{"kind":"layout","layoutId":"42585378-0fca-4344-b11e-1419d482be24","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"f04a4ead-2dc0-4384-954f-26e34a8ff336","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/k62jwz","slide":1,"title":"AI Transformation Strategy","textShapes":7}
+{"kind":"shape","id":"sh/p4r65wju","slide":1,"bbox":[0,0,750,720]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":1,"bbox":[56,78,570,4]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":1,"text":"AI Transformation Strategy","textPreview":"AI Transformation Strategy","textChars":26,"textLines":1,"bbox":[58,120,610,112]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":1,"text":"Turning technical textile know-how into a measurable industrial AI advantage","textPreview":"Turning technical textile know-how into a measurable industrial AI advantage","textChars":76,"textLines":1,"bbox":[60,268,560,74]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":1,"text":"Darmstaedter GmbH + Klevers GmbH & Co. KG","textPreview":"Darmstaedter GmbH + Klevers GmbH & Co. KG","textChars":41,"textLines":1,"bbox":[58,560,560,32]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":1,"text":"Executive board discussion | 2026","textPreview":"Executive board discussion | 2026","textChars":33,"textLines":1,"bbox":[58,592,500,24]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":1,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":1,"text":"Image source: Darmstaedter public media library","textPreview":"Image source: Darmstaedter public media library","textChars":47,"textLines":1,"bbox":[410,682,670,18]}
+{"kind":"textbox","id":"sh/cvixczed","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"image","id":"im/3itgfmlk","slide":1,"name":"","alt":"Coated technical textile","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/k62jwz","slide":1,"text":"Open with the business point, not the technology. Say: this is not a proposal to do random AI experiments. It is a strategy to convert our technical textile know-how, quality evidence, and process data into measurable advantage. The deck recommends one low-risk pilot first, then a staged platform only after value is proven."}
+{"kind":"slide","id":"sl/b0bvvv","slide":2,"title":"EXECUTIVE ASK","textShapes":18}
+{"kind":"textbox","id":"sh/sneloj2t","slide":2,"text":"EXECUTIVE ASK","textPreview":"EXECUTIVE ASK","textChars":13,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":2,"text":"The decision today is small, but strategically important","textPreview":"The decision today is small, but strategically important","textChars":56,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":2,"text":"Approve a bounded pilot that creates the data spine for later AI transformation.","textPreview":"Approve a bounded pilot that creates the data spine for later AI transformation.","textChars":80,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":2,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":2,"bbox":[70,232,250,132]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":2,"bbox":[70,232,6,132]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":2,"text":"12 weeks","textPreview":"12 weeks","textChars":8,"textLines":1,"bbox":[92,250,206,44]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":2,"text":"Pilot duration","textPreview":"Pilot duration","textChars":14,"textLines":1,"bbox":[92,296,206,28]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":2,"text":"Read-only data discovery and analytics","textPreview":"Read-only data discovery and analytics","textChars":38,"textLines":1,"bbox":[92,326,206,28]}
+{"kind":"shape","id":"sh/udg7adsj","slide":2,"bbox":[354,232,250,132]}
+{"kind":"shape","id":"sh/nyd0z610","slide":2,"bbox":[354,232,6,132]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":2,"text":"EUR 25k-75k","textPreview":"EUR 25k-75k","textChars":11,"textLines":1,"bbox":[376,250,206,44]}
+{"kind":"textbox","id":"sh/54zidony","slide":2,"text":"Initial budget range","textPreview":"Initial budget range","textChars":20,"textLines":1,"bbox":[376,296,206,28]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":2,"text":"Finalized after two-week data audit","textPreview":"Finalized after two-week data audit","textChars":35,"textLines":1,"bbox":[376,326,206,28]}
+{"kind":"shape","id":"sh/nap4r65w","slide":2,"bbox":[638,232,250,132]}
+{"kind":"shape","id":"sh/cvixczed","slide":2,"bbox":[638,232,6,132]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":2,"text":"Quality cost","textPreview":"Quality cost","textChars":12,"textLines":1,"bbox":[660,250,206,44]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":2,"text":"Primary business target","textPreview":"Primary business target","textChars":23,"textLines":1,"bbox":[660,296,206,28]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":2,"text":"Scrap, rework, repeat defects, complaints","textPreview":"Scrap, rework, repeat defects, complaints","textChars":41,"textLines":1,"bbox":[660,326,206,28]}
+{"kind":"shape","id":"sh/bm58z25k","slide":2,"bbox":[922,232,250,132]}
+{"kind":"shape","id":"sh/m1cfa9w3","slide":2,"bbox":[922,232,6,132]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":2,"text":"Low","textPreview":"Low","textChars":3,"textLines":1,"bbox":[944,250,206,44]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":2,"text":"Operating risk","textPreview":"Operating risk","textChars":14,"textLines":1,"bbox":[944,296,206,28]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":2,"text":"No machine control or ERP writeback","textPreview":"No machine control or ERP writeback","textChars":35,"textLines":1,"bbox":[944,326,206,28]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":2,"text":"- Approve one cross-functional AI pilot around coating/packaging quality intelligence.\n- Name one executive sponsor and one owner each from R&D, production, quality, packaging, IT, and finance.\n- Grant controlled read-only access to selected ERP, inspection, QC, lab, and production evidence.","textPreview":"- Approve one cross-functional AI pilot around coating/packaging quality intelligence. | - Name one executive sponsor and one owner each ...","textChars":292,"textLines":3,"bbox":[96,440,1000,120]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":2,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/b0bvvv","slide":2,"text":"Make the ask concrete. Management should not feel they are approving a vague transformation program. They are approving a limited 12-week pilot with a bounded budget, no machine control, and clear owners. Emphasize that the pilot is designed to discover measurable value before any larger platform decision."}
+{"kind":"slide","id":"sl/e0hpol","slide":3,"title":"COMPANY-SPECIFIC INSIGHT","textShapes":26}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":3,"text":"COMPANY-SPECIFIC INSIGHT","textPreview":"COMPANY-SPECIFIC INSIGHT","textChars":24,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":3,"text":"The company creates value through engineered combinations","textPreview":"The company creates value through engineered combinations","textChars":57,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/61032lsz","slide":3,"text":"The hidden AI asset is the link between materials, process, quality, certification, and application knowledge.","textPreview":"The hidden AI asset is the link between materials, process, quality, certification, and application knowledge.","textChars":110,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":3,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/oj2t83it","slide":3,"bbox":[70,235,205,180]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":3,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[88,252,42,34]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":3,"text":"Customer need","textPreview":"Customer need","textChars":13,"textLines":1,"bbox":[88,294,170,36]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":3,"text":"temperature, flame, marine, automotive, PPE, insulation","textPreview":"temperature, flame, marine, automotive, PPE, insulation","textChars":55,"textLines":1,"bbox":[88,344,166,54]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":3,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[285,305,24,40]}
+{"kind":"shape","id":"sh/epkzupwb","slide":3,"bbox":[296,235,205,180]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":3,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[314,252,42,34]}
+{"kind":"textbox","id":"sh/wval87ed","slide":3,"text":"Material route","textPreview":"Material route","textChars":14,"textLines":1,"bbox":[314,294,170,36]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":3,"text":"glass, silica, aramid, basalt, carbon, V4A, blends","textPreview":"glass, silica, aramid, basalt, carbon, V4A, blends","textChars":50,"textLines":1,"bbox":[314,344,166,54]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":3,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[511,305,24,40]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":3,"bbox":[522,235,205,180]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[540,252,42,34]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":3,"text":"Functional finish","textPreview":"Functional finish","textChars":17,"textLines":1,"bbox":[540,294,170,36]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":3,"text":"silicone, PU, vermiculite, graphite, appreture, lamination","textPreview":"silicone, PU, vermiculite, graphite, appreture, lamination","textChars":58,"textLines":1,"bbox":[540,344,166,54]}
+{"kind":"textbox","id":"sh/7u54zido","slide":3,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[737,305,24,40]}
+{"kind":"shape","id":"sh/vy90je9c","slide":3,"bbox":[748,235,205,180]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":3,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[766,252,42,34]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":3,"text":"Production window","textPreview":"Production window","textChars":17,"textLines":1,"bbox":[766,294,170,36]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":3,"text":"line speed, temperature, tension, coating weight, curing","textPreview":"line speed, temperature, tension, coating weight, curing","textChars":56,"textLines":1,"bbox":[766,344,166,54]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":3,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[963,305,24,40]}
+{"kind":"shape","id":"sh/61032lsz","slide":3,"bbox":[974,235,205,180]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":3,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[992,252,42,34]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":3,"text":"Quality proof","textPreview":"Quality proof","textChars":13,"textLines":1,"bbox":[992,294,170,36]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":3,"text":"tests, certificates, complaints, approvals, release","textPreview":"tests, certificates, complaints, approvals, release","textChars":51,"textLines":1,"bbox":[992,344,166,54]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":3,"text":"AI becomes valuable when it connects these steps at roll, recipe, test, and customer level.","textPreview":"AI becomes valuable when it connects these steps at roll, recipe, test, and customer level.","textChars":91,"textLines":1,"bbox":[120,500,990,42]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":3,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":3,"text":"Sources: Darmstaedter and Klevers company/product pages","textPreview":"Sources: Darmstaedter and Klevers company/product pages","textChars":55,"textLines":1,"bbox":[410,682,670,18]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/e0hpol","slide":3,"text":"This slide explains why generic AI ideas are weak here. The company value is combinatorial: customer requirement, substrate, coating or lamination, production window, and proof. If those links are not captured, every department sees only its slice. The pilot should connect the chain, not merely add a chatbot."}
+{"kind":"slide","id":"sl/gbbbiu","slide":4,"title":"EVIDENCE","textShapes":18}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":4,"text":"EVIDENCE","textPreview":"EVIDENCE","textChars":8,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":4,"text":"Public evidence points to a high-mix, knowledge-heavy business","textPreview":"Public evidence points to a high-mix, knowledge-heavy business","textChars":62,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":4,"text":"AI should target repeatability, traceability, and expert knowledge reuse.","textPreview":"AI should target repeatability, traceability, and expert knowledge reuse.","textChars":73,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":4,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":4,"bbox":[470,212,360,54]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":4,"text":"Evidence from public sources","textPreview":"Evidence from public sources","textChars":28,"textLines":1,"bbox":[480,220,340,42]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":4,"bbox":[830,212,360,54]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":4,"text":"Strategic implication","textPreview":"Strategic implication","textChars":21,"textLines":1,"bbox":[840,220,340,42]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":4,"bbox":[470,266,360,54]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":4,"text":"Darmstaedter: coatings, appretures, laminations, hybrid articles","textPreview":"Darmstaedter: coatings, appretures, laminations, hybrid articles","textChars":64,"textLines":1,"bbox":[480,274,340,42]}
+{"kind":"shape","id":"sh/1orytsvu","slide":4,"bbox":[830,266,360,54]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":4,"text":"Data must connect product design to process and quality","textPreview":"Data must connect product design to process and quality","textChars":55,"textLines":1,"bbox":[840,274,340,42]}
+{"kind":"shape","id":"sh/judg7ads","slide":4,"bbox":[470,320,360,54]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":4,"text":"Darmstaedter: R&D lab mirrors production at small scale","textPreview":"Darmstaedter: R&D lab mirrors production at small scale","textChars":55,"textLines":1,"bbox":[480,328,340,42]}
+{"kind":"shape","id":"sh/1032lszq","slide":4,"bbox":[830,320,360,54]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":4,"text":"Lab-to-production scale-up is a major AI opportunity","textPreview":"Lab-to-production scale-up is a major AI opportunity","textChars":52,"textLines":1,"bbox":[840,328,340,42]}
+{"kind":"shape","id":"sh/nyd0z610","slide":4,"bbox":[470,374,360,54]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":4,"text":"Klevers: integrated weaving and flexible combinations","textPreview":"Klevers: integrated weaving and flexible combinations","textChars":53,"textLines":1,"bbox":[480,382,340,42]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":4,"bbox":[830,374,360,54]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":4,"text":"Configuration knowledge is a strategic asset","textPreview":"Configuration knowledge is a strategic asset","textChars":44,"textLines":1,"bbox":[840,382,340,42]}
+{"kind":"shape","id":"sh/gvy90je9","slide":4,"bbox":[470,428,360,54]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":4,"text":"Quality: ISO, marine modules, flame classifications","textPreview":"Quality: ISO, marine modules, flame classifications","textChars":51,"textLines":1,"bbox":[480,436,340,42]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":4,"bbox":[830,428,360,54]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":4,"text":"AI must be source-cited and compliance-safe","textPreview":"AI must be source-cited and compliance-safe","textChars":43,"textLines":1,"bbox":[840,436,340,42]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":4,"bbox":[470,482,360,54]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":4,"text":"Klevers: public R&D projects with RWTH Aachen ITA","textPreview":"Klevers: public R&D projects with RWTH Aachen ITA","textChars":49,"textLines":1,"bbox":[480,490,340,42]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":4,"bbox":[830,482,360,54]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":4,"text":"Funding and research partnerships are realistic","textPreview":"Funding and research partnerships are realistic","textChars":47,"textLines":1,"bbox":[840,490,340,42]}
+{"kind":"shape","id":"sh/xczed8v6","slide":4,"bbox":[470,212,720,324]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":4,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":4,"text":"Sources: Darmstaedter Entwicklung/Qualitaet; Klevers Lieferprogramm/Projekte/Qualitaet","textPreview":"Sources: Darmstaedter Entwicklung/Qualitaet; Klevers Lieferprogramm/Projekte/Qualitaet","textChars":86,"textLines":1,"bbox":[410,682,670,18]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"image","id":"im/2t83itgf","slide":4,"name":"","alt":"Darmstaedter laboratory","bbox":[70,214,360,300]}
+{"kind":"notes","id":"nt/gbbbiu","slide":4,"text":"Use this slide to show that the recommendation is not copied from another manufacturer. The public sources show a company that lives from functional combinations and proof. That means AI should not begin with full automation. It should begin by linking evidence and learning from past combinations."}
+{"kind":"slide","id":"sl/8itecl","slide":5,"title":"VALUE POOLS","textShapes":19}
+{"kind":"textbox","id":"sh/7u54zido","slide":5,"text":"VALUE POOLS","textPreview":"VALUE POOLS","textChars":11,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":5,"text":"The largest near-term value pools sit in quality, R&D, and production","textPreview":"The largest near-term value pools sit in quality, R&D, and production","textChars":69,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":5,"text":"These areas share the same missing foundation: connected roll, recipe, process, and test data.","textPreview":"These areas share the same missing foundation: connected roll, recipe, process, and test data.","textChars":94,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/eloj2t83","slide":5,"bbox":[56,192,1120,1]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":5,"text":"Quality","textPreview":"Quality","textChars":7,"textLines":1,"bbox":[140,225,260,24]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":5,"bbox":[420,231,520,12]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":5,"bbox":[420,231,520,12]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":5,"text":"5.0","textPreview":"5.0","textChars":3,"textLines":1,"bbox":[952,225,42,20]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":5,"text":"R&D","textPreview":"R&D","textChars":3,"textLines":1,"bbox":[140,283,260,24]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":5,"bbox":[420,289,520,12]}
+{"kind":"shape","id":"sh/u54zidon","slide":5,"bbox":[420,289,520,12]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":5,"text":"5.0","textPreview":"5.0","textChars":3,"textLines":1,"bbox":[952,283,42,20]}
+{"kind":"textbox","id":"sh/cbulwval","slide":5,"text":"Production","textPreview":"Production","textChars":10,"textLines":1,"bbox":[140,341,260,24]}
+{"kind":"shape","id":"sh/neloj2t8","slide":5,"bbox":[420,347,520,12]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":5,"bbox":[420,347,468,12]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":5,"text":"4.5","textPreview":"4.5","textChars":3,"textLines":1,"bbox":[952,341,42,20]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":5,"text":"Sales","textPreview":"Sales","textChars":5,"textLines":1,"bbox":[140,399,260,24]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":5,"bbox":[420,405,520,12]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":5,"bbox":[420,405,384.8,12]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":5,"text":"3.7","textPreview":"3.7","textChars":3,"textLines":1,"bbox":[952,399,42,20]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":5,"text":"Supply","textPreview":"Supply","textChars":6,"textLines":1,"bbox":[140,457,260,24]}
+{"kind":"shape","id":"sh/onyd0z61","slide":5,"bbox":[420,463,520,12]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":5,"bbox":[420,463,364,12]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":5,"text":"3.5","textPreview":"3.5","textChars":3,"textLines":1,"bbox":[952,457,42,20]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":5,"text":"Admin","textPreview":"Admin","textChars":5,"textLines":1,"bbox":[140,515,260,24]}
+{"kind":"shape","id":"sh/ovahoza1","slide":5,"bbox":[420,521,520,12]}
+{"kind":"shape","id":"sh/dg7adsji","slide":5,"bbox":[420,521,260,12]}
+{"kind":"textbox","id":"sh/61032lsz","slide":5,"text":"2.5","textPreview":"2.5","textChars":3,"textLines":1,"bbox":[952,515,42,20]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":5,"bbox":[820,230,310,280]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":5,"text":"Why quality first?","textPreview":"Why quality first?","textChars":18,"textLines":1,"bbox":[850,260,250,32]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":5,"text":"- Visible to management\n- Uses existing evidence\n- Connects production and R&D\n- Measurable within weeks\n- Low operational risk","textPreview":"- Visible to management | - Uses existing evidence | - Connects production and R&D | - Measurable within weeks | - Low operational risk","textChars":127,"textLines":5,"bbox":[850,314,230,150]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":5,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/8itecl","slide":5,"text":"Explain the prioritization logic. R&D and production are strategically huge, but quality is the best first wedge because it creates measurable evidence quickly. If we can show where defects come from and how roll-level data connects, the later R&D and production AI business case becomes much easier."}
+{"kind":"slide","id":"sl/ilo6ah","slide":6,"title":"OPPORTUNITY MAP","textShapes":41}
+{"kind":"textbox","id":"sh/dg7adsji","slide":6,"text":"OPPORTUNITY MAP","textPreview":"OPPORTUNITY MAP","textChars":15,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":6,"text":"AI opportunities cover the whole company, but not all should start now","textPreview":"AI opportunities cover the whole company, but not all should start now","textChars":70,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":6,"text":"The first wave should create reusable data assets, not isolated demos.","textPreview":"The first wave should create reusable data assets, not isolated demos.","textChars":70,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/onyd0z61","slide":6,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":6,"bbox":[70,202,170,42]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":6,"text":"Function","textPreview":"Function","textChars":8,"textLines":1,"bbox":[80,210,150,30]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":6,"bbox":[240,202,300,42]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":6,"text":"Quick win","textPreview":"Quick win","textChars":9,"textLines":1,"bbox":[250,210,280,30]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":6,"bbox":[540,202,360,42]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":6,"text":"Long-term AI opportunity","textPreview":"Long-term AI opportunity","textChars":24,"textLines":1,"bbox":[550,210,340,30]}
+{"kind":"shape","id":"sh/sji5snel","slide":6,"bbox":[900,202,120,42]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":6,"text":"Start","textPreview":"Start","textChars":5,"textLines":1,"bbox":[910,210,100,30]}
+{"kind":"shape","id":"sh/adsji5sn","slide":6,"bbox":[70,244,170,42]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":6,"text":"R&D","textPreview":"R&D","textChars":3,"textLines":1,"bbox":[80,252,150,30]}
+{"kind":"shape","id":"sh/s72x4nap","slide":6,"bbox":[240,244,300,42]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":6,"text":"Knowledge graph","textPreview":"Knowledge graph","textChars":15,"textLines":1,"bbox":[250,252,280,30]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":6,"bbox":[540,244,360,42]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":6,"text":"Formulation optimizer","textPreview":"Formulation optimizer","textChars":21,"textLines":1,"bbox":[550,252,340,30]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":6,"bbox":[900,244,120,42]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":6,"text":"Now","textPreview":"Now","textChars":3,"textLines":1,"bbox":[910,252,100,30]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":6,"bbox":[70,286,170,42]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":6,"text":"Production","textPreview":"Production","textChars":10,"textLines":1,"bbox":[80,294,150,30]}
+{"kind":"shape","id":"sh/fepkzupw","slide":6,"bbox":[240,286,300,42]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":6,"text":"Read-only process intelligence","textPreview":"Read-only process intelligence","textChars":30,"textLines":1,"bbox":[250,294,280,30]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":6,"bbox":[540,286,360,42]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":6,"text":"Digital twin","textPreview":"Digital twin","textChars":12,"textLines":1,"bbox":[550,294,340,30]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":6,"bbox":[900,286,120,42]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":6,"text":"Now","textPreview":"Now","textChars":3,"textLines":1,"bbox":[910,294,100,30]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":6,"bbox":[70,328,170,42]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":6,"text":"Quality","textPreview":"Quality","textChars":7,"textLines":1,"bbox":[80,336,150,30]}
+{"kind":"shape","id":"sh/y90je9cv","slide":6,"bbox":[240,328,300,42]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":6,"text":"Roll passport + root cause AI","textPreview":"Roll passport + root cause AI","textChars":29,"textLines":1,"bbox":[250,336,280,30]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":6,"bbox":[540,328,360,42]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":6,"text":"Predictive release","textPreview":"Predictive release","textChars":18,"textLines":1,"bbox":[550,336,340,30]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":6,"bbox":[900,328,120,42]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":6,"text":"Now","textPreview":"Now","textChars":3,"textLines":1,"bbox":[910,336,100,30]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":6,"bbox":[70,370,170,42]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":6,"text":"Packaging","textPreview":"Packaging","textChars":9,"textLines":1,"bbox":[80,378,150,30]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":6,"bbox":[240,370,300,42]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":6,"text":"Defect mining","textPreview":"Defect mining","textChars":13,"textLines":1,"bbox":[250,378,280,30]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":6,"bbox":[540,370,360,42]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":6,"text":"Vision/process feedback loop","textPreview":"Vision/process feedback loop","textChars":28,"textLines":1,"bbox":[550,378,340,30]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":6,"bbox":[900,370,120,42]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":6,"text":"Now","textPreview":"Now","textChars":3,"textLines":1,"bbox":[910,378,100,30]}
+{"kind":"shape","id":"sh/j2t83itg","slide":6,"bbox":[70,412,170,42]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":6,"text":"Sales","textPreview":"Sales","textChars":5,"textLines":1,"bbox":[80,420,150,30]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":6,"bbox":[240,412,300,42]}
+{"kind":"textbox","id":"sh/ulwval87","slide":6,"text":"Spec-to-product search","textPreview":"Spec-to-product search","textChars":22,"textLines":1,"bbox":[250,420,280,30]}
+{"kind":"shape","id":"sh/j6tovaho","slide":6,"bbox":[540,412,360,42]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":6,"text":"AI sales engineer","textPreview":"AI sales engineer","textChars":17,"textLines":1,"bbox":[550,420,340,30]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":6,"bbox":[900,412,120,42]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":6,"text":"Phase 2","textPreview":"Phase 2","textChars":7,"textLines":1,"bbox":[910,420,100,30]}
+{"kind":"shape","id":"sh/i5sneloj","slide":6,"bbox":[70,454,170,42]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":6,"text":"Procurement","textPreview":"Procurement","textChars":11,"textLines":1,"bbox":[80,462,150,30]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":6,"bbox":[240,454,300,42]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":6,"text":"Supplier docs intelligence","textPreview":"Supplier docs intelligence","textChars":26,"textLines":1,"bbox":[250,462,280,30]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":6,"bbox":[540,454,360,42]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":6,"text":"Substitution recommender","textPreview":"Substitution recommender","textChars":24,"textLines":1,"bbox":[550,462,340,30]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":6,"bbox":[900,454,120,42]}
+{"kind":"textbox","id":"sh/wval87ed","slide":6,"text":"Phase 2","textPreview":"Phase 2","textChars":7,"textLines":1,"bbox":[910,462,100,30]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":6,"bbox":[70,496,170,42]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":6,"text":"Maintenance","textPreview":"Maintenance","textChars":11,"textLines":1,"bbox":[80,504,150,30]}
+{"kind":"shape","id":"sh/7adsji5s","slide":6,"bbox":[240,496,300,42]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":6,"text":"Failure log assistant","textPreview":"Failure log assistant","textChars":21,"textLines":1,"bbox":[250,504,280,30]}
+{"kind":"shape","id":"sh/psfil0rq","slide":6,"bbox":[540,496,360,42]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":6,"text":"Predictive maintenance","textPreview":"Predictive maintenance","textChars":22,"textLines":1,"bbox":[550,504,340,30]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":6,"bbox":[900,496,120,42]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":6,"text":"Phase 2","textPreview":"Phase 2","textChars":7,"textLines":1,"bbox":[910,504,100,30]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":6,"bbox":[70,538,170,42]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":6,"text":"Finance","textPreview":"Finance","textChars":7,"textLines":1,"bbox":[80,546,150,30]}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":6,"bbox":[240,538,300,42]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":6,"text":"Margin leakage dashboard","textPreview":"Margin leakage dashboard","textChars":24,"textLines":1,"bbox":[250,546,280,30]}
+{"kind":"shape","id":"sh/4nap4r65","slide":6,"bbox":[540,538,360,42]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":6,"text":"Quote-to-margin AI","textPreview":"Quote-to-margin AI","textChars":18,"textLines":1,"bbox":[550,546,340,30]}
+{"kind":"shape","id":"sh/m58z25kb","slide":6,"bbox":[900,538,120,42]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":6,"text":"Phase 2","textPreview":"Phase 2","textChars":7,"textLines":1,"bbox":[910,546,100,30]}
+{"kind":"shape","id":"sh/4byhgn29","slide":6,"bbox":[70,202,950,378]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":6,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/ilo6ah","slide":6,"text":"Do not let the audience interpret the map as 'we will do everything.' Say clearly: the map shows potential, but the first wave is disciplined. We start where data creates leverage for many departments: quality, production, packaging, and R&D knowledge."}
+{"kind":"slide","id":"sl/vpvqa2","slide":7,"title":"PILOT","textShapes":11}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":7,"text":"PILOT","textPreview":"PILOT","textChars":5,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":7,"text":"Recommended pilot: Quality Intelligence","textPreview":"Recommended pilot: Quality Intelligence","textChars":39,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":7,"text":"A read-only pilot that turns existing evidence into root-cause and traceability insight.","textPreview":"A read-only pilot that turns existing evidence into root-cause and traceability insight.","textChars":88,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":7,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":7,"bbox":[80,220,330,300]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":7,"text":"Pilot scope","textPreview":"Pilot scope","textChars":11,"textLines":1,"bbox":[110,252,250,32]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":7,"text":"- One product family or line\n- ERP/order context\n- Inspection/defect evidence\n- QC and lab results\n- Operator and complaint notes","textPreview":"- One product family or line | - ERP/order context | - Inspection/defect evidence | - QC and lab results | - Operator and complaint notes","textChars":129,"textLines":5,"bbox":[110,310,250,150]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":7,"bbox":[470,220,330,300]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":7,"text":"Pilot outputs","textPreview":"Pilot outputs","textChars":13,"textLines":1,"bbox":[500,252,250,32]}
+{"kind":"textbox","id":"sh/sji5snel","slide":7,"text":"- Defect Pareto by roll/product\n- Process-quality correlations\n- Roll quality passport\n- Root-cause shortlist\n- Scale-up data requirements","textPreview":"- Defect Pareto by roll/product | - Process-quality correlations | - Roll quality passport | - Root-cause shortlist | - Scale-up data req...","textChars":138,"textLines":5,"bbox":[500,310,250,150]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":7,"bbox":[860,220,330,300]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":7,"text":"Why this wins","textPreview":"Why this wins","textChars":13,"textLines":1,"bbox":[890,252,250,32]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":7,"text":"- Measurable in 12 weeks\n- Low risk: no control loop\n- Useful for quality, R&D, production\n- Creates data spine for platform","textPreview":"- Measurable in 12 weeks | - Low risk: no control loop | - Useful for quality, R&D, production | - Creates data spine for platform","textChars":124,"textLines":4,"bbox":[890,310,250,130]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":7,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/vpvqa2","slide":7,"text":"This is the main recommendation. Say that the pilot is deliberately narrow. It is not an AI platform, not a machine-control project, and not a computer vision science project. It is a practical read-only quality intelligence pilot. It should make repeated defects visible and show whether our data can support prediction."}
+{"kind":"slide","id":"sl/xgaxte","slide":8,"title":"PILOT ARCHITECTURE","textShapes":18}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":8,"text":"PILOT ARCHITECTURE","textPreview":"PILOT ARCHITECTURE","textChars":18,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":8,"text":"The pilot architecture is simple and scalable","textPreview":"The pilot architecture is simple and scalable","textChars":45,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":8,"text":"Read-only connectors feed one traceable quality model.","textPreview":"Read-only connectors feed one traceable quality model.","textChars":54,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":8,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/fepkzupw","slide":8,"bbox":[70,235,180,110]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":8,"text":"ERP / order","textPreview":"ERP / order","textChars":11,"textLines":1,"bbox":[84,256,150,26]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":8,"text":"customer, product, route, roll","textPreview":"customer, product, route, roll","textChars":30,"textLines":1,"bbox":[84,292,150,40]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":8,"bbox":[276,235,180,110]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":8,"text":"Production","textPreview":"Production","textChars":10,"textLines":1,"bbox":[290,256,150,26]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":8,"text":"recipe, settings, line, time","textPreview":"recipe, settings, line, time","textChars":28,"textLines":1,"bbox":[290,292,150,40]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":8,"bbox":[482,235,180,110]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":8,"text":"Inspection","textPreview":"Inspection","textChars":10,"textLines":1,"bbox":[496,256,150,26]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":8,"text":"images, labels, defects","textPreview":"images, labels, defects","textChars":23,"textLines":1,"bbox":[496,292,150,40]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":8,"bbox":[688,235,180,110]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":8,"text":"QC / lab","textPreview":"QC / lab","textChars":8,"textLines":1,"bbox":[702,256,150,26]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":8,"text":"tests, release, certificates","textPreview":"tests, release, certificates","textChars":28,"textLines":1,"bbox":[702,292,150,40]}
+{"kind":"shape","id":"sh/4r65wjud","slide":8,"bbox":[894,235,180,110]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":8,"text":"Complaints","textPreview":"Complaints","textChars":10,"textLines":1,"bbox":[908,256,150,26]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":8,"text":"customer feedback, CAPA","textPreview":"customer feedback, CAPA","textChars":23,"textLines":1,"bbox":[908,292,150,40]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":8,"text":"v","textPreview":"v","textChars":1,"textLines":1,"bbox":[598,360,50,36]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":8,"bbox":[325,420,620,94]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":8,"text":"Roll-level quality passport + analytics dashboard","textPreview":"Roll-level quality passport + analytics dashboard","textChars":49,"textLines":1,"bbox":[360,448,550,34]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":8,"text":"No machine control. No ERP writeback. Human-reviewed recommendations only.","textPreview":"No machine control. No ERP writeback. Human-reviewed recommendations only.","textChars":74,"textLines":1,"bbox":[364,486,550,24]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":8,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/xgaxte","slide":8,"text":"This architecture lowers fear. Read-only means we observe and learn first. The output is a roll-level passport and dashboard. Later we can add predictive quality and process recommendations, but only after we trust the data and people trust the system."}
+{"kind":"slide","id":"sl/76vyb8","slide":9,"title":"R&D","textShapes":9}
+{"kind":"textbox","id":"sh/s72x4nap","slide":9,"text":"R&D","textPreview":"R&D","textChars":3,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":9,"text":"R&D becomes the long-term strategic engine","textPreview":"R&D becomes the long-term strategic engine","textChars":42,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":9,"text":"The goal is a materials intelligence system, not a document chatbot.","textPreview":"The goal is a materials intelligence system, not a document chatbot.","textChars":68,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":9,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":9,"bbox":[545,215,610,310]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":9,"text":"Materials AI use cases","textPreview":"Materials AI use cases","textChars":22,"textLines":1,"bbox":[575,245,350,32]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":9,"text":"- Formulation and recipe optimization\n- Experiment recommendation and DOE planning\n- Raw material alternative search\n- Supplier and patent/literature intelligence\n- Failure analysis and scale-up learning\n- Digital lab notebook and scientific agents","textPreview":"- Formulation and recipe optimization | - Experiment recommendation and DOE planning | - Raw material alternative search | - Supplier and...","textChars":248,"textLines":6,"bbox":[575,302,510,160]}
+{"kind":"textbox","id":"sh/svu9knih","slide":9,"text":"First step: capture historical experiments, lab tests, customer specs, and failed trials into a knowledge graph.","textPreview":"First step: capture historical experiments, lab tests, customer specs, and failed trials into a knowledge graph.","textChars":112,"textLines":1,"bbox":[575,480,520,34]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":9,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/7u54zido","slide":9,"text":"Source: Darmstaedter Entwicklung; Klevers Projekte","textPreview":"Source: Darmstaedter Entwicklung; Klevers Projekte","textChars":50,"textLines":1,"bbox":[410,682,670,18]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"image","id":"im/h4byhgn2","slide":9,"name":"","alt":"Darmstaedter development lab","bbox":[70,215,420,310]}
+{"kind":"notes","id":"nt/76vyb8","slide":9,"text":"Use this slide to expand management's view beyond production automation. R&D is where proprietary advantage lives. If we capture experiment memory and connect it to production outcomes, the company can develop better coatings and hybrid articles faster, and avoid repeating old failures."}
+{"kind":"slide","id":"sl/wn1g3h","slide":10,"title":"PRODUCTION","textShapes":29}
+{"kind":"textbox","id":"sh/c7u54zid","slide":10,"text":"PRODUCTION","textPreview":"PRODUCTION","textChars":10,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":10,"text":"Production AI should earn trust in stages","textPreview":"Production AI should earn trust in stages","textChars":41,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":10,"text":"This sequencing protects operations while building trust.","textPreview":"This sequencing protects operations while building trust.","textChars":57,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/1032lszq","slide":10,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":10,"bbox":[90,220,155,56]}
+{"kind":"textbox","id":"sh/judg7ads","slide":10,"text":"Stage","textPreview":"Stage","textChars":5,"textLines":1,"bbox":[100,228,135,44]}
+{"kind":"shape","id":"sh/u9knih4b","slide":10,"bbox":[245,220,560,56]}
+{"kind":"textbox","id":"sh/54zidony","slide":10,"text":"What AI does","textPreview":"What AI does","textChars":12,"textLines":1,"bbox":[255,228,540,44]}
+{"kind":"shape","id":"sh/cj6tovah","slide":10,"bbox":[805,220,130,56]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":10,"text":"Risk","textPreview":"Risk","textChars":4,"textLines":1,"bbox":[815,228,110,44]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":10,"bbox":[935,220,160,56]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":10,"text":"When","textPreview":"When","textChars":4,"textLines":1,"bbox":[945,228,140,44]}
+{"kind":"shape","id":"sh/loj2t83i","slide":10,"bbox":[90,276,155,56]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":10,"text":"Observe","textPreview":"Observe","textChars":7,"textLines":1,"bbox":[100,284,135,44]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":10,"bbox":[245,276,560,56]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":10,"text":"Collects order, process, inspection, QC, energy, operator evidence","textPreview":"Collects order, process, inspection, QC, energy, operator evidence","textChars":66,"textLines":1,"bbox":[255,284,540,44]}
+{"kind":"shape","id":"sh/lwval87e","slide":10,"bbox":[805,276,130,56]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":10,"text":"Low","textPreview":"Low","textChars":3,"textLines":1,"bbox":[815,284,110,44]}
+{"kind":"shape","id":"sh/32lszqtc","slide":10,"bbox":[935,276,160,56]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":10,"text":"Now","textPreview":"Now","textChars":3,"textLines":1,"bbox":[945,284,140,44]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":10,"bbox":[90,332,155,56]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":10,"text":"Explain","textPreview":"Explain","textChars":7,"textLines":1,"bbox":[100,340,135,44]}
+{"kind":"shape","id":"sh/knih4byh","slide":10,"bbox":[245,332,560,56]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":10,"text":"Shows defect drivers, drift, repeated root causes, bottlenecks","textPreview":"Shows defect drivers, drift, repeated root causes, bottlenecks","textChars":62,"textLines":1,"bbox":[255,340,540,44]}
+{"kind":"shape","id":"sh/29gr2p8n","slide":10,"bbox":[805,332,130,56]}
+{"kind":"textbox","id":"sh/d0z61032","slide":10,"text":"Low","textPreview":"Low","textChars":3,"textLines":1,"bbox":[815,340,110,44]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":10,"bbox":[935,332,160,56]}
+{"kind":"textbox","id":"sh/vixczed8","slide":10,"text":"Pilot","textPreview":"Pilot","textChars":5,"textLines":1,"bbox":[945,340,140,44]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":10,"bbox":[90,388,155,56]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":10,"text":"Predict","textPreview":"Predict","textChars":7,"textLines":1,"bbox":[100,396,135,44]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":10,"bbox":[245,388,560,56]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":10,"text":"Flags quality risk before release or before next run","textPreview":"Flags quality risk before release or before next run","textChars":52,"textLines":1,"bbox":[255,396,540,44]}
+{"kind":"shape","id":"sh/neloj2t8","slide":10,"bbox":[805,388,130,56]}
+{"kind":"textbox","id":"sh/cbulwval","slide":10,"text":"Medium","textPreview":"Medium","textChars":6,"textLines":1,"bbox":[815,396,110,44]}
+{"kind":"shape","id":"sh/5sneloj2","slide":10,"bbox":[935,388,160,56]}
+{"kind":"textbox","id":"sh/u54zidon","slide":10,"text":"6-12 months","textPreview":"6-12 months","textChars":11,"textLines":1,"bbox":[945,396,140,44]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":10,"bbox":[90,444,155,56]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":10,"text":"Recommend","textPreview":"Recommend","textChars":9,"textLines":1,"bbox":[100,452,135,44]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":10,"bbox":[245,444,560,56]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":10,"text":"Suggests process window or schedule changes for human approval","textPreview":"Suggests process window or schedule changes for human approval","textChars":62,"textLines":1,"bbox":[255,452,540,44]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":10,"bbox":[805,444,130,56]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":10,"text":"Medium","textPreview":"Medium","textChars":6,"textLines":1,"bbox":[815,452,110,44]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":10,"bbox":[935,444,160,56]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":10,"text":"1-2 years","textPreview":"1-2 years","textChars":9,"textLines":1,"bbox":[945,452,140,44]}
+{"kind":"shape","id":"sh/8bat47y1","slide":10,"bbox":[90,500,155,56]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":10,"text":"Control","textPreview":"Control","textChars":7,"textLines":1,"bbox":[100,508,135,44]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":10,"bbox":[245,500,560,56]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":10,"text":"Closed-loop machine adjustment","textPreview":"Closed-loop machine adjustment","textChars":30,"textLines":1,"bbox":[255,508,540,44]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":10,"bbox":[805,500,130,56]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":10,"text":"High","textPreview":"High","textChars":4,"textLines":1,"bbox":[815,508,110,44]}
+{"kind":"shape","id":"sh/bm58z25k","slide":10,"bbox":[935,500,160,56]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":10,"text":"Only after proof","textPreview":"Only after proof","textChars":16,"textLines":1,"bbox":[945,508,140,44]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":10,"bbox":[90,220,1005,336]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":10,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/wn1g3h","slide":10,"text":"This slide is important for production credibility. Say that we are not proposing a black-box system to change machine parameters. The correct sequence is observe, explain, predict, recommend, and only much later control. The first pilot stays in the observe and explain stages."}
+{"kind":"slide","id":"sl/ekv32v","slide":11,"title":"QUALITY","textShapes":18}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":11,"text":"QUALITY","textPreview":"QUALITY","textChars":7,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/cbulwval","slide":11,"text":"Quality evolves from inspection to prevention","textPreview":"Quality evolves from inspection to prevention","textChars":45,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":11,"text":"The company already produces proof. AI should connect that proof to causes and actions.","textPreview":"The company already produces proof. AI should connect that proof to causes and actions.","textChars":87,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":11,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/neloj2t8","slide":11,"bbox":[105,230,235,230]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":11,"text":"Inspection","textPreview":"Inspection","textChars":10,"textLines":1,"bbox":[127,260,190,34]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":11,"text":"What defect happened?","textPreview":"What defect happened?","textChars":21,"textLines":1,"bbox":[127,320,185,76]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":11,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[350,324,30,40]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":11,"bbox":[375,230,235,230]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":11,"text":"Traceability","textPreview":"Traceability","textChars":12,"textLines":1,"bbox":[397,260,190,34]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":11,"text":"Which roll, order, recipe, line, and supplier batch?","textPreview":"Which roll, order, recipe, line, and supplier batch?","textChars":52,"textLines":1,"bbox":[397,320,185,76]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":11,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[620,324,30,40]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":11,"bbox":[645,230,235,230]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":11,"text":"Prediction","textPreview":"Prediction","textChars":10,"textLines":1,"bbox":[667,260,190,34]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":11,"text":"Which future orders are at risk?","textPreview":"Which future orders are at risk?","textChars":32,"textLines":1,"bbox":[667,320,185,76]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":11,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[890,324,30,40]}
+{"kind":"shape","id":"sh/8v6psfil","slide":11,"bbox":[915,230,235,230]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":11,"text":"Prevention","textPreview":"Prevention","textChars":10,"textLines":1,"bbox":[937,260,190,34]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":11,"text":"Which process or material change reduces recurrence?","textPreview":"Which process or material change reduces recurrence?","textChars":52,"textLines":1,"bbox":[937,320,185,76]}
+{"kind":"textbox","id":"sh/u54zidon","slide":11,"text":"The strategic shift is from finding defects late to preventing repeat defects early.","textPreview":"The strategic shift is from finding defects late to preventing repeat defects early.","textChars":84,"textLines":1,"bbox":[160,525,960,44]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":11,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/cbulwval","slide":11,"text":"Source: Darmstaedter Qualitaet; Klevers Qualitaet","textPreview":"Source: Darmstaedter Qualitaet; Klevers Qualitaet","textChars":49,"textLines":1,"bbox":[410,682,670,18]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/ekv32v","slide":11,"text":"Frame quality transformation as prevention, not more inspection. The company has tests and certificates. The next step is connecting them to process and material causes. That is how we reduce repeated defects and improve customer confidence."}
+{"kind":"slide","id":"sl/9mt187","slide":12,"title":"PACKAGING","textShapes":8}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":12,"text":"PACKAGING","textPreview":"PACKAGING","textChars":9,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":12,"text":"Packaging inspection can become a learning system","textPreview":"Packaging inspection can become a learning system","textChars":49,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":12,"text":"The first question is not whether we can train computer vision. It is whether inspection data is connected.","textPreview":"The first question is not whether we can train computer vision. It is whether inspection data is connected.","textChars":107,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/7adsji5s","slide":12,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":12,"bbox":[505,220,620,300]}
+{"kind":"textbox","id":"sh/wval87ed","slide":12,"text":"Packaging AI project ladder","textPreview":"Packaging AI project ladder","textChars":27,"textLines":1,"bbox":[535,246,420,30]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":12,"text":"- Audit inspection data: images, labels, timestamps, roll IDs, operator decisions\n- Standardize defect taxonomy and severity\n- Build defect Pareto and roll quality passport\n- Connect defect patterns to upstream process conditions\n- Only then decide whether new computer vision models are worth deploying","textPreview":"- Audit inspection data: images, labels, timestamps, roll IDs, operator decisions | - Standardize defect taxonomy and severity | - Build ...","textChars":303,"textLines":5,"bbox":[535,305,520,150]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":12,"text":"Computer vision is phase 2. Data linkage is phase 1.","textPreview":"Computer vision is phase 2. Data linkage is phase 1.","textChars":52,"textLines":1,"bbox":[535,480,520,26]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":12,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"image","id":"im/ji5snelo","slide":12,"name":"","alt":"Darmstaedter production/factory image","bbox":[70,220,380,300]}
+{"kind":"notes","id":"nt/9mt187","slide":12,"text":"This slide protects against a common mistake. If there is already an inspection system, the fastest value may be defect mining, not training a new vision model. We should first understand exportability, labels, roll linkage, and operator decisions. That alone can create a valuable pilot."}
+{"kind":"slide","id":"sl/1rvytc","slide":13,"title":"KNOWLEDGE PLATFORM","textShapes":18}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":13,"text":"KNOWLEDGE PLATFORM","textPreview":"KNOWLEDGE PLATFORM","textChars":18,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/cbulwval","slide":13,"text":"A knowledge platform makes know-how reusable","textPreview":"A knowledge platform makes know-how reusable","textChars":44,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":13,"text":"The platform should answer with sources, not guesses.","textPreview":"The platform should answer with sources, not guesses.","textChars":53,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":13,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/neloj2t8","slide":13,"bbox":[100,220,240,56]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":13,"text":"Layer","textPreview":"Layer","textChars":5,"textLines":1,"bbox":[110,228,220,44]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":13,"bbox":[340,220,760,56]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":13,"text":"Purpose","textPreview":"Purpose","textChars":7,"textLines":1,"bbox":[350,228,740,44]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":13,"bbox":[100,276,240,56]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":13,"text":"Source connectors","textPreview":"Source connectors","textChars":17,"textLines":1,"bbox":[110,284,220,44]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":13,"bbox":[340,276,760,56]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":13,"text":"ERP, QC, lab, inspection, production, file shares, email exports","textPreview":"ERP, QC, lab, inspection, production, file shares, email exports","textChars":64,"textLines":1,"bbox":[350,284,740,44]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":13,"bbox":[100,332,240,56]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":13,"text":"Document intelligence","textPreview":"Document intelligence","textChars":21,"textLines":1,"bbox":[110,340,220,44]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":13,"bbox":[340,332,760,56]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":13,"text":"OCR, table extraction, metadata, duplicate handling","textPreview":"OCR, table extraction, metadata, duplicate handling","textChars":51,"textLines":1,"bbox":[350,340,740,44]}
+{"kind":"shape","id":"sh/8v6psfil","slide":13,"bbox":[100,388,240,56]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":13,"text":"Knowledge graph","textPreview":"Knowledge graph","textChars":15,"textLines":1,"bbox":[110,396,220,44]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":13,"bbox":[340,388,760,56]}
+{"kind":"textbox","id":"sh/u54zidon","slide":13,"text":"Products, materials, processes, tests, defects, certificates, customers","textPreview":"Products, materials, processes, tests, defects, certificates, customers","textChars":71,"textLines":1,"bbox":[350,396,740,44]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":13,"bbox":[100,444,240,56]}
+{"kind":"textbox","id":"sh/cbulwval","slide":13,"text":"RAG search","textPreview":"RAG search","textChars":10,"textLines":1,"bbox":[110,452,220,44]}
+{"kind":"shape","id":"sh/5sneloj2","slide":13,"bbox":[340,444,760,56]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":13,"text":"Source-cited answers across approved documents","textPreview":"Source-cited answers across approved documents","textChars":46,"textLines":1,"bbox":[350,452,740,44]}
+{"kind":"shape","id":"sh/neloj2t8","slide":13,"bbox":[100,500,240,56]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":13,"text":"AI applications","textPreview":"AI applications","textChars":15,"textLines":1,"bbox":[110,508,220,44]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":13,"bbox":[340,500,760,56]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":13,"text":"R&D copilot, quality copilot, sales assistant, operator support","textPreview":"R&D copilot, quality copilot, sales assistant, operator support","textChars":63,"textLines":1,"bbox":[350,508,740,44]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":13,"bbox":[100,220,1000,336]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":13,"text":"Governance rule: no source, no answer.","textPreview":"Governance rule: no source, no answer.","textChars":38,"textLines":1,"bbox":[100,575,1000,36]}
+{"kind":"textbox","id":"sh/knih4byh","slide":13,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/1rvytc","slide":13,"text":"Emphasize safety and trust. A knowledge platform is not just a chatbot. It needs connectors, document processing, a knowledge graph, retrieval, and governance. The key rule is no source, no answer. This is especially important for certificates, standards, and technical claims."}
+{"kind":"slide","id":"sl/3zrfc1","slide":14,"title":"ROADMAP","textShapes":15}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":14,"text":"ROADMAP","textPreview":"ROADMAP","textChars":7,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":14,"text":"The roadmap compounds value in staged decisions","textPreview":"The roadmap compounds value in staged decisions","textChars":47,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":14,"text":"Each phase earns the right to expand.","textPreview":"Each phase earns the right to expand.","textChars":37,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":14,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":14,"bbox":[92,205,170,54]}
+{"kind":"textbox","id":"sh/ulwval87","slide":14,"text":"0-3 months","textPreview":"0-3 months","textChars":10,"textLines":1,"bbox":[110,220,135,20]}
+{"kind":"shape","id":"sh/j6tovaho","slide":14,"bbox":[282,205,820,54]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":14,"text":"Pilot charter, data discovery, quality dashboard, knowledge assistant","textPreview":"Pilot charter, data discovery, quality dashboard, knowledge assistant","textChars":69,"textLines":1,"bbox":[302,218,780,26]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":14,"bbox":[92,279,170,54]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":14,"text":"3-6 months","textPreview":"3-6 months","textChars":10,"textLines":1,"bbox":[110,294,135,20]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":14,"bbox":[282,279,820,54]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":14,"text":"Roll passport, defect mining, root-cause analytics, first prediction baseline","textPreview":"Roll passport, defect mining, root-cause analytics, first prediction baseline","textChars":77,"textLines":1,"bbox":[302,292,780,26]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":14,"bbox":[92,353,170,54]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":14,"text":"6-12 months","textPreview":"6-12 months","textChars":11,"textLines":1,"bbox":[110,368,135,20]}
+{"kind":"shape","id":"sh/wval87ed","slide":14,"bbox":[282,353,820,54]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":14,"text":"Data spine across lines, lab notebook, supplier docs, complaint assistant","textPreview":"Data spine across lines, lab notebook, supplier docs, complaint assistant","textChars":73,"textLines":1,"bbox":[302,366,780,26]}
+{"kind":"shape","id":"sh/epkzupwb","slide":14,"bbox":[92,427,170,54]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":14,"text":"1-3 years","textPreview":"1-3 years","textChars":9,"textLines":1,"bbox":[110,442,135,20]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":14,"bbox":[282,427,820,54]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":14,"text":"Predictive quality, R&D formulation assistant, scheduling and quote intelligence","textPreview":"Predictive quality, R&D formulation assistant, scheduling and quote intelligence","textChars":80,"textLines":1,"bbox":[302,440,780,26]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":14,"bbox":[92,501,170,54]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":14,"text":"3-5 years","textPreview":"3-5 years","textChars":9,"textLines":1,"bbox":[110,516,135,20]}
+{"kind":"shape","id":"sh/zidonyd0","slide":14,"bbox":[282,501,820,54]}
+{"kind":"textbox","id":"sh/svu9knih","slide":14,"text":"Industrial AI platform, digital twins, patentable materials/process intelligence","textPreview":"Industrial AI platform, digital twins, patentable materials/process intelligence","textChars":80,"textLines":1,"bbox":[302,514,780,26]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":14,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/3zrfc1","slide":14,"text":"Show the sequence as a set of gates. We do not ask for five years of budget now. We ask for the first 12 weeks, then use the results to decide the next phase. This makes the transformation credible and controllable."}
+{"kind":"slide","id":"sl/ubuibo","slide":15,"title":"PRIORITIZATION","textShapes":33}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":15,"text":"PRIORITIZATION","textPreview":"PRIORITIZATION","textChars":14,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":15,"text":"The highest-ranked projects create shared data assets","textPreview":"The highest-ranked projects create shared data assets","textChars":53,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":15,"text":"Prioritization balances ROI, time to value, risk, visibility, and knowledge creation.","textPreview":"Prioritization balances ROI, time to value, risk, visibility, and knowledge creation.","textChars":85,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/xs72x4na","slide":15,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/87ed8bat","slide":15,"bbox":[92,215,90,52]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":15,"text":"Rank","textPreview":"Rank","textChars":4,"textLines":1,"bbox":[102,223,70,40]}
+{"kind":"shape","id":"sh/q1orytsv","slide":15,"bbox":[182,215,520,52]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":15,"text":"Project","textPreview":"Project","textChars":7,"textLines":1,"bbox":[192,223,500,40]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":15,"bbox":[702,215,120,52]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":15,"text":"Score","textPreview":"Score","textChars":5,"textLines":1,"bbox":[712,223,100,40]}
+{"kind":"shape","id":"sh/bat47y1k","slide":15,"bbox":[822,215,270,52]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":15,"text":"Recommendation","textPreview":"Recommendation","textChars":14,"textLines":1,"bbox":[832,223,250,40]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":15,"bbox":[92,267,90,52]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":15,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[102,275,70,40]}
+{"kind":"shape","id":"sh/bm58z25k","slide":15,"bbox":[182,267,520,52]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":15,"text":"Coating/Packaging Quality Intelligence","textPreview":"Coating/Packaging Quality Intelligence","textChars":38,"textLines":1,"bbox":[192,275,500,40]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":15,"bbox":[702,267,120,52]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":15,"text":"4.7","textPreview":"4.7","textChars":3,"textLines":1,"bbox":[712,275,100,40]}
+{"kind":"shape","id":"sh/bq1oryts","slide":15,"bbox":[822,267,270,52]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":15,"text":"Start immediately","textPreview":"Start immediately","textChars":17,"textLines":1,"bbox":[832,275,250,40]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":15,"bbox":[92,319,90,52]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":15,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[102,327,70,40]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":15,"bbox":[182,319,520,52]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":15,"text":"Roll-level quality passport","textPreview":"Roll-level quality passport","textChars":27,"textLines":1,"bbox":[192,327,500,40]}
+{"kind":"shape","id":"sh/epkzupwb","slide":15,"bbox":[702,319,120,52]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":15,"text":"4.6","textPreview":"4.6","textChars":3,"textLines":1,"bbox":[712,327,100,40]}
+{"kind":"shape","id":"sh/wval87ed","slide":15,"bbox":[822,319,270,52]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":15,"text":"Build in pilot","textPreview":"Build in pilot","textChars":14,"textLines":1,"bbox":[832,327,250,40]}
+{"kind":"shape","id":"sh/eloj2t83","slide":15,"bbox":[92,371,90,52]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":15,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[102,379,70,40]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":15,"bbox":[182,371,520,52]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":15,"text":"R&D knowledge graph","textPreview":"R&D knowledge graph","textChars":19,"textLines":1,"bbox":[192,379,500,40]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":15,"bbox":[702,371,120,52]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":15,"text":"4.5","textPreview":"4.5","textChars":3,"textLines":1,"bbox":[712,379,100,40]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":15,"bbox":[822,371,270,52]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":15,"text":"Start in parallel","textPreview":"Start in parallel","textChars":17,"textLines":1,"bbox":[832,379,250,40]}
+{"kind":"shape","id":"sh/z61032ls","slide":15,"bbox":[92,423,90,52]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":15,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[102,431,70,40]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":15,"bbox":[182,423,520,52]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":15,"text":"Complaint/root-cause assistant","textPreview":"Complaint/root-cause assistant","textChars":30,"textLines":1,"bbox":[192,431,500,40]}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":15,"bbox":[702,423,120,52]}
+{"kind":"textbox","id":"sh/vixczed8","slide":15,"text":"4.3","textPreview":"4.3","textChars":3,"textLines":1,"bbox":[712,431,100,40]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":15,"bbox":[822,423,270,52]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":15,"text":"Quick win","textPreview":"Quick win","textChars":9,"textLines":1,"bbox":[832,431,250,40]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":15,"bbox":[92,475,90,52]}
+{"kind":"textbox","id":"sh/val87ed8","slide":15,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[102,483,70,40]}
+{"kind":"shape","id":"sh/6psfil0r","slide":15,"bbox":[182,475,520,52]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":15,"text":"Certificate/TDS assistant","textPreview":"Certificate/TDS assistant","textChars":25,"textLines":1,"bbox":[192,483,500,40]}
+{"kind":"shape","id":"sh/knih4byh","slide":15,"bbox":[702,475,120,52]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":15,"text":"4.1","textPreview":"4.1","textChars":3,"textLines":1,"bbox":[712,483,100,40]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":15,"bbox":[822,475,270,52]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":15,"text":"Guardrailed quick win","textPreview":"Guardrailed quick win","textChars":21,"textLines":1,"bbox":[832,483,250,40]}
+{"kind":"shape","id":"sh/58z25kb6","slide":15,"bbox":[92,527,90,52]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":15,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[102,535,70,40]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":15,"bbox":[182,527,520,52]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":15,"text":"Predictive quality model","textPreview":"Predictive quality model","textChars":24,"textLines":1,"bbox":[192,535,500,40]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":15,"bbox":[702,527,120,52]}
+{"kind":"textbox","id":"sh/u54zidon","slide":15,"text":"3.9","textPreview":"3.9","textChars":3,"textLines":1,"bbox":[712,535,100,40]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":15,"bbox":[822,527,270,52]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":15,"text":"After data linkage","textPreview":"After data linkage","textChars":18,"textLines":1,"bbox":[832,535,250,40]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":15,"bbox":[92,215,1000,364]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":15,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/ubuibo","slide":15,"text":"Use this slide to prevent idea overload. There are many possible AI projects, but the top projects all create shared data assets. That is the logic: build things that help several departments, rather than one-off demos."}
+{"kind":"slide","id":"sl/ag4v63","slide":16,"title":"FINANCIAL LOGIC","textShapes":10}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":16,"text":"FINANCIAL LOGIC","textPreview":"FINANCIAL LOGIC","textChars":15,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/ulwval87","slide":16,"text":"Build the financial case from company baselines","textPreview":"Build the financial case from company baselines","textChars":47,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":16,"text":"The pilot must quantify the value of reducing quality losses and decision time.","textPreview":"The pilot must quantify the value of reducing quality losses and decision time.","textChars":79,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":16,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":16,"bbox":[90,230,470,290]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":16,"text":"Baseline inputs to collect","textPreview":"Baseline inputs to collect","textChars":26,"textLines":1,"bbox":[122,260,380,32]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":16,"text":"- Annual scrap and rework cost in target family\n- Defects per roll or per 1,000 meters\n- Customer complaint cost and response time\n- Quality release and certificate preparation time\n- Downtime or delay from repeated quality issues","textPreview":"- Annual scrap and rework cost in target family | - Defects per roll or per 1,000 meters | - Customer complaint cost and response time | ...","textChars":230,"textLines":5,"bbox":[122,320,350,145]}
+{"kind":"shape","id":"sh/8bat47y1","slide":16,"bbox":[630,230,470,290]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":16,"text":"Pilot ROI equation","textPreview":"Pilot ROI equation","textChars":18,"textLines":1,"bbox":[662,260,360,32]}
+{"kind":"textbox","id":"sh/d0z61032","slide":16,"text":"Value = avoided scrap + avoided rework + faster root cause + faster release + fewer repeated complaints","textPreview":"Value = avoided scrap + avoided rework + faster root cause + faster release + fewer repeated complaints","textChars":103,"textLines":1,"bbox":[662,325,360,90]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":16,"text":"The pilot does not need perfect prediction. It needs enough evidence to identify controllable loss drivers.","textPreview":"The pilot does not need perfect prediction. It needs enough evidence to identify controllable loss drivers.","textChars":107,"textLines":1,"bbox":[662,444,360,46]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":16,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/ag4v63","slide":16,"text":"Avoid fake precision. Say that we should not invent savings before seeing internal baselines. The pilot's job is to calculate the real value pool. The financial equation is simple: scrap, rework, root-cause time, release time, and complaints."}
+{"kind":"slide","id":"sl/tngakm","slide":17,"title":"FUNDING","textShapes":28}
+{"kind":"textbox","id":"sh/wval87ed","slide":17,"text":"FUNDING","textPreview":"FUNDING","textChars":7,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":17,"text":"Funding should accelerate scale, not delay the pilot","textPreview":"Funding should accelerate scale, not delay the pilot","textChars":52,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":17,"text":"Use the pilot evidence to improve grant quality.","textPreview":"Use the pilot evidence to improve grant quality.","textChars":48,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/psfil0rq","slide":17,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":17,"bbox":[82,210,230,50]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":17,"text":"Route","textPreview":"Route","textChars":5,"textLines":1,"bbox":[92,218,210,38]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":17,"bbox":[312,210,610,50]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":17,"text":"Best use","textPreview":"Best use","textChars":8,"textLines":1,"bbox":[322,218,590,38]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":17,"bbox":[922,210,150,50]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":17,"text":"Fit","textPreview":"Fit","textChars":3,"textLines":1,"bbox":[932,218,130,38]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":17,"bbox":[82,260,230,50]}
+{"kind":"textbox","id":"sh/032lszqt","slide":17,"text":"ZIM","textPreview":"ZIM","textChars":3,"textLines":1,"bbox":[92,268,210,38]}
+{"kind":"shape","id":"sh/tovahoza","slide":17,"bbox":[312,260,610,50]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":17,"text":"R&D-heavy AI/materials cooperation projects","textPreview":"R&D-heavy AI/materials cooperation projects","textChars":43,"textLines":1,"bbox":[322,268,590,38]}
+{"kind":"shape","id":"sh/bulwval8","slide":17,"bbox":[922,260,150,50]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":17,"text":"High","textPreview":"High","textChars":4,"textLines":1,"bbox":[932,268,130,38]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":17,"bbox":[82,310,230,50]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":17,"text":"Forschungszulage","textPreview":"Forschungszulage","textChars":16,"textLines":1,"bbox":[92,318,210,38]}
+{"kind":"shape","id":"sh/byhgn29g","slide":17,"bbox":[312,310,610,50]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":17,"text":"Technical uncertainty in formulation or predictive quality R&D","textPreview":"Technical uncertainty in formulation or predictive quality R&D","textChars":62,"textLines":1,"bbox":[322,318,590,38]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":17,"bbox":[922,310,150,50]}
+{"kind":"textbox","id":"sh/lwval87e","slide":17,"text":"High","textPreview":"High","textChars":4,"textLines":1,"bbox":[932,318,130,38]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":17,"bbox":[82,360,230,50]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":17,"text":"NRW MID-Digitalisierung","textPreview":"NRW MID-Digitalisierung","textChars":23,"textLines":1,"bbox":[92,368,210,38]}
+{"kind":"shape","id":"sh/ex0nuxc3","slide":17,"bbox":[312,360,610,50]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":17,"text":"Marketable digital product using AI/ML, not internal-only process digitization","textPreview":"Marketable digital product using AI/ML, not internal-only process digitization","textChars":78,"textLines":1,"bbox":[322,368,590,38]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":17,"bbox":[922,360,150,50]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":17,"text":"Selective","textPreview":"Selective","textChars":9,"textLines":1,"bbox":[932,368,130,38]}
+{"kind":"shape","id":"sh/at47y1kr","slide":17,"bbox":[82,410,230,50]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":17,"text":"NRW MID-Assistent(in)","textPreview":"NRW MID-Assistent(in)","textChars":21,"textLines":1,"bbox":[92,418,210,38]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":17,"bbox":[312,410,610,50]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":17,"text":"Hiring a graduate AI/data engineer for innovation work","textPreview":"Hiring a graduate AI/data engineer for innovation work","textChars":54,"textLines":1,"bbox":[322,418,590,38]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":17,"bbox":[922,410,150,50]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":17,"text":"Strong","textPreview":"Strong","textChars":6,"textLines":1,"bbox":[932,418,130,38]}
+{"kind":"shape","id":"sh/dg7adsji","slide":17,"bbox":[82,460,230,50]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":17,"text":"BAFA EEW","textPreview":"BAFA EEW","textChars":8,"textLines":1,"bbox":[92,468,210,38]}
+{"kind":"shape","id":"sh/vahoza1g","slide":17,"bbox":[312,460,610,50]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":17,"text":"Energy/resource efficiency, sensorics, management software, optimization","textPreview":"Energy/resource efficiency, sensorics, management software, optimization","textChars":72,"textLines":1,"bbox":[322,468,590,38]}
+{"kind":"shape","id":"sh/dsji5sne","slide":17,"bbox":[922,460,150,50]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":17,"text":"Conditional","textPreview":"Conditional","textChars":11,"textLines":1,"bbox":[932,468,130,38]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":17,"bbox":[82,510,230,50]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":17,"text":"Eurostars/Horizon","textPreview":"Eurostars/Horizon","textChars":17,"textLines":1,"bbox":[92,518,210,38]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":17,"bbox":[312,510,610,50]}
+{"kind":"textbox","id":"sh/9knih4by","slide":17,"text":"International R&D consortia and advanced materials/manufacturing","textPreview":"International R&D consortia and advanced materials/manufacturing","textChars":64,"textLines":1,"bbox":[322,518,590,38]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":17,"bbox":[922,510,150,50]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":17,"text":"Later","textPreview":"Later","textChars":5,"textLines":1,"bbox":[932,518,130,38]}
+{"kind":"shape","id":"sh/2t83itgf","slide":17,"bbox":[82,210,990,350]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":17,"text":"Strategy: start internally, then fund the R&D and scale-up phases.","textPreview":"Strategy: start internally, then fund the R&D and scale-up phases.","textChars":66,"textLines":1,"bbox":[120,585,960,32]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":17,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":17,"text":"Sources: ZIM, BSFZ, NRW.BANK MID, BAFA EEW, Eurostars, Horizon Europe","textPreview":"Sources: ZIM, BSFZ, NRW.BANK MID, BAFA EEW, Eurostars, Horizon Europe","textChars":69,"textLines":1,"bbox":[410,682,670,18]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/tngakm","slide":17,"text":"The key message is that funding is a lever, not a precondition. A small internal pilot creates evidence and makes funding applications stronger. Also clarify that NRW MID-Digitalisierung changed in 2026 and is mainly for marketable digital products, so we should not rely on it for a purely internal process pilot."}
+{"kind":"slide","id":"sl/fx1z70","slide":18,"title":"RISK CONTROLS","textShapes":17}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":18,"text":"RISK CONTROLS","textPreview":"RISK CONTROLS","textChars":13,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":18,"text":"Risk is manageable if the first phase stays controlled","textPreview":"Risk is manageable if the first phase stays controlled","textChars":54,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":18,"text":"The biggest risks are not model accuracy. They are data linkage, trust, and governance.","textPreview":"The biggest risks are not model accuracy. They are data linkage, trust, and governance.","textChars":87,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/9cvixcze","slide":18,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/gr2p8nqx","slide":18,"bbox":[80,220,350,105]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":18,"text":"Data linkage fails","textPreview":"Data linkage fails","textChars":18,"textLines":1,"bbox":[100,238,300,24]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":18,"text":"Start with roll passport and data audit","textPreview":"Start with roll passport and data audit","textChars":39,"textLines":1,"bbox":[100,272,300,32]}
+{"kind":"shape","id":"sh/90je9cvi","slide":18,"bbox":[465,220,350,105]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":18,"text":"Hallucinated technical answer","textPreview":"Hallucinated technical answer","textChars":29,"textLines":1,"bbox":[485,238,300,24]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":18,"text":"No source, no answer; human approval","textPreview":"No source, no answer; human approval","textChars":36,"textLines":1,"bbox":[485,272,300,32]}
+{"kind":"shape","id":"sh/zqtcj6to","slide":18,"bbox":[850,220,350,105]}
+{"kind":"textbox","id":"sh/obm58z25","slide":18,"text":"IP leakage","textPreview":"IP leakage","textChars":10,"textLines":1,"bbox":[870,238,300,24]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":18,"text":"Private/approved tools; access control","textPreview":"Private/approved tools; access control","textChars":38,"textLines":1,"bbox":[870,272,300,32]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":18,"bbox":[80,355,350,105]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":18,"text":"Employee resistance","textPreview":"Employee resistance","textChars":19,"textLines":1,"bbox":[100,373,300,24]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":18,"text":"No surveillance framing; involve operators","textPreview":"No surveillance framing; involve operators","textChars":42,"textLines":1,"bbox":[100,407,300,32]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":18,"bbox":[465,355,350,105]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":18,"text":"Cybersecurity","textPreview":"Cybersecurity","textChars":13,"textLines":1,"bbox":[485,373,300,24]}
+{"kind":"textbox","id":"sh/z61032ls","slide":18,"text":"Read-only connectors; audit logs","textPreview":"Read-only connectors; audit logs","textChars":32,"textLines":1,"bbox":[485,407,300,32]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":18,"bbox":[850,355,350,105]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":18,"text":"Overpromising","textPreview":"Overpromising","textChars":13,"textLines":1,"bbox":[870,373,300,24]}
+{"kind":"textbox","id":"sh/tovahoza","slide":18,"text":"12-week pilot gates and baseline KPIs","textPreview":"12-week pilot gates and baseline KPIs","textChars":37,"textLines":1,"bbox":[870,407,300,32]}
+{"kind":"textbox","id":"sh/032lszqt","slide":18,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/bulwval8","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/fx1z70","slide":18,"text":"This slide should make management more comfortable. We are not hiding risks. We are designing the pilot to control them. The most important controls are read-only access, source-cited answers, human approval, and no machine control in phase 1."}
+{"kind":"slide","id":"sl/k259sh","slide":19,"title":"OPERATING MODEL","textShapes":19}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":19,"text":"OPERATING MODEL","textPreview":"OPERATING MODEL","textChars":15,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":19,"text":"The operating model needs a champion and owners","textPreview":"The operating model needs a champion and owners","textChars":47,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":19,"text":"AI transformation fails when it sits only in IT or only in one enthusiastic department.","textPreview":"AI transformation fails when it sits only in IT or only in one enthusiastic department.","textChars":87,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":19,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/2t83itgf","slide":19,"bbox":[100,210,250,38]}
+{"kind":"textbox","id":"sh/9knih4by","slide":19,"text":"Executive sponsor","textPreview":"Executive sponsor","textChars":17,"textLines":1,"bbox":[116,219,220,18]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":19,"bbox":[370,210,730,38]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":19,"text":"Removes barriers and approves value gates","textPreview":"Removes barriers and approves value gates","textChars":41,"textLines":1,"bbox":[390,219,680,18]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":19,"bbox":[100,260,250,38]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":19,"text":"AI champion","textPreview":"AI champion","textChars":11,"textLines":1,"bbox":[116,269,220,18]}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":19,"bbox":[370,260,730,38]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":19,"text":"Owns pilot narrative, roadmap, and cross-functional momentum","textPreview":"Owns pilot narrative, roadmap, and cross-functional momentum","textChars":60,"textLines":1,"bbox":[390,269,680,18]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":19,"bbox":[100,310,250,38]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":19,"text":"IT owner","textPreview":"IT owner","textChars":8,"textLines":1,"bbox":[116,319,220,18]}
+{"kind":"shape","id":"sh/94fu18jq","slide":19,"bbox":[370,310,730,38]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":19,"text":"Secures data access and architecture","textPreview":"Secures data access and architecture","textChars":36,"textLines":1,"bbox":[390,319,680,18]}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":19,"bbox":[100,360,250,38]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":19,"text":"Quality owner","textPreview":"Quality owner","textChars":13,"textLines":1,"bbox":[116,369,220,18]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":19,"bbox":[370,360,730,38]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":19,"text":"Defines defects, release, CAPA, and validation","textPreview":"Defines defects, release, CAPA, and validation","textChars":46,"textLines":1,"bbox":[390,369,680,18]}
+{"kind":"shape","id":"sh/ovahoza1","slide":19,"bbox":[100,410,250,38]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":19,"text":"Production owner","textPreview":"Production owner","textChars":16,"textLines":1,"bbox":[116,419,220,18]}
+{"kind":"shape","id":"sh/6tovahoz","slide":19,"bbox":[370,410,730,38]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":19,"text":"Defines process reality and operator adoption","textPreview":"Defines process reality and operator adoption","textChars":45,"textLines":1,"bbox":[390,419,680,18]}
+{"kind":"shape","id":"sh/onyd0z61","slide":19,"bbox":[100,460,250,38]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":19,"text":"R&D owner","textPreview":"R&D owner","textChars":9,"textLines":1,"bbox":[116,469,220,18]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":19,"bbox":[370,460,730,38]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":19,"text":"Connects experiment knowledge and formulation learning","textPreview":"Connects experiment knowledge and formulation learning","textChars":54,"textLines":1,"bbox":[390,469,680,18]}
+{"kind":"shape","id":"sh/oj2t83it","slide":19,"bbox":[100,510,250,38]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":19,"text":"Finance owner","textPreview":"Finance owner","textChars":13,"textLines":1,"bbox":[116,519,220,18]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":19,"bbox":[370,510,730,38]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":19,"text":"Validates baseline and ROI","textPreview":"Validates baseline and ROI","textChars":26,"textLines":1,"bbox":[390,519,680,18]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":19,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/k259sh","slide":19,"text":"This is where you can position yourself without making the presentation self-centered. The company needs an AI champion who translates between business, R&D, quality, production, and IT. The champion does not replace functional owners. They coordinate the transformation and keep it measurable."}
+{"kind":"slide","id":"sl/fu45jt","slide":20,"title":"IMPLEMENTATION","textShapes":16}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":20,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":20,"text":"The next 30 days create the pilot charter","textPreview":"The next 30 days create the pilot charter","textChars":41,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":20,"text":"Fast discovery prevents months of abstract debate.","textPreview":"Fast discovery prevents months of abstract debate.","textChars":50,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/bat47y1k","slide":20,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":20,"bbox":[78,238,205,220]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":20,"text":"Week 1","textPreview":"Week 1","textChars":6,"textLines":1,"bbox":[96,265,160,28]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":20,"text":"Sponsor, owners, pilot family, access rules","textPreview":"Sponsor, owners, pilot family, access rules","textChars":43,"textLines":1,"bbox":[96,320,160,78]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":20,"bbox":[303,238,205,220]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":20,"text":"Week 2","textPreview":"Week 2","textChars":6,"textLines":1,"bbox":[321,265,160,28]}
+{"kind":"textbox","id":"sh/0z61032l","slide":20,"text":"Data inventory, exports, quality baseline design","textPreview":"Data inventory, exports, quality baseline design","textChars":48,"textLines":1,"bbox":[321,320,160,78]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":20,"bbox":[528,238,205,220]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":20,"text":"Weeks 3-5","textPreview":"Weeks 3-5","textChars":9,"textLines":1,"bbox":[546,265,160,28]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":20,"text":"Roll linkage, defect taxonomy, first dashboard","textPreview":"Roll linkage, defect taxonomy, first dashboard","textChars":46,"textLines":1,"bbox":[546,320,160,78]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":20,"bbox":[753,238,205,220]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":20,"text":"Weeks 6-9","textPreview":"Weeks 6-9","textChars":9,"textLines":1,"bbox":[771,265,160,28]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":20,"text":"Root-cause analytics, expert review, data gaps","textPreview":"Root-cause analytics, expert review, data gaps","textChars":46,"textLines":1,"bbox":[771,320,160,78]}
+{"kind":"shape","id":"sh/72x4nap4","slide":20,"bbox":[978,238,205,220]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":20,"text":"Weeks 10-12","textPreview":"Weeks 10-12","textChars":11,"textLines":1,"bbox":[996,265,160,28]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":20,"text":"Management demo, ROI case, scale decision","textPreview":"Management demo, ROI case, scale decision","textChars":41,"textLines":1,"bbox":[996,320,160,78]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":20,"text":"First meeting outcome: permission to inspect data, not permission to build a platform.","textPreview":"First meeting outcome: permission to inspect data, not permission to build a platform.","textChars":86,"textLines":1,"bbox":[130,535,1000,30]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":20,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":20,"text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/fu45jt","slide":20,"text":"Use this to close the practical plan. The first month is about data reality. We should not promise a model before we know identifiers, exports, labels, and baselines. The first management commitment is access and ownership."}
+{"kind":"slide","id":"sl/zd1xyr","slide":21,"title":"SUCCESS METRICS","textShapes":19}
+{"kind":"textbox","id":"sh/2t83itgf","slide":21,"text":"SUCCESS METRICS","textPreview":"SUCCESS METRICS","textChars":15,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/9knih4by","slide":21,"text":"Success metrics prevent AI theater","textPreview":"Success metrics prevent AI theater","textChars":34,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":21,"text":"Every metric should be observable within the pilot scope.","textPreview":"Every metric should be observable within the pilot scope.","textChars":57,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":21,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":21,"bbox":[92,215,250,52]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":21,"text":"Metric","textPreview":"Metric","textChars":6,"textLines":1,"bbox":[102,223,230,40]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":21,"bbox":[342,215,760,52]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":21,"text":"Pilot target","textPreview":"Pilot target","textChars":12,"textLines":1,"bbox":[352,223,740,40]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":21,"bbox":[92,267,250,52]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":21,"text":"Data linkage","textPreview":"Data linkage","textChars":12,"textLines":1,"bbox":[102,275,230,40]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":21,"bbox":[342,267,760,52]}
+{"kind":"textbox","id":"sh/ulwval87","slide":21,"text":"Target rolls linked across order, inspection, QC/lab, and process evidence","textPreview":"Target rolls linked across order, inspection, QC/lab, and process evidence","textChars":74,"textLines":1,"bbox":[352,275,740,40]}
+{"kind":"shape","id":"sh/j6tovaho","slide":21,"bbox":[92,319,250,52]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":21,"text":"Defect insight","textPreview":"Defect insight","textChars":14,"textLines":1,"bbox":[102,327,230,40]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":21,"bbox":[342,319,760,52]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":21,"text":"Top 5 defect drivers ranked by cost or frequency","textPreview":"Top 5 defect drivers ranked by cost or frequency","textChars":48,"textLines":1,"bbox":[352,327,740,40]}
+{"kind":"shape","id":"sh/ji5snelo","slide":21,"bbox":[92,371,250,52]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":21,"text":"Root-cause speed","textPreview":"Root-cause speed","textChars":16,"textLines":1,"bbox":[102,379,230,40]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":21,"bbox":[342,371,760,52]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":21,"text":"Time to first root-cause hypothesis reduced vs current workflow","textPreview":"Time to first root-cause hypothesis reduced vs current workflow","textChars":63,"textLines":1,"bbox":[352,379,740,40]}
+{"kind":"shape","id":"sh/c7u54zid","slide":21,"bbox":[92,423,250,52]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":21,"text":"Quality opportunity","textPreview":"Quality opportunity","textChars":19,"textLines":1,"bbox":[102,431,230,40]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":21,"bbox":[342,423,760,52]}
+{"kind":"textbox","id":"sh/1032lszq","slide":21,"text":"Scrap/rework/complaint value pool quantified","textPreview":"Scrap/rework/complaint value pool quantified","textChars":44,"textLines":1,"bbox":[352,431,740,40]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":21,"bbox":[92,475,250,52]}
+{"kind":"textbox","id":"sh/judg7ads","slide":21,"text":"Adoption","textPreview":"Adoption","textChars":8,"textLines":1,"bbox":[102,483,230,40]}
+{"kind":"shape","id":"sh/u9knih4b","slide":21,"bbox":[342,475,760,52]}
+{"kind":"textbox","id":"sh/54zidony","slide":21,"text":"Production, quality, R&D, IT, and finance agree on scale/no-scale decision","textPreview":"Production, quality, R&D, IT, and finance agree on scale/no-scale decision","textChars":74,"textLines":1,"bbox":[352,483,740,40]}
+{"kind":"shape","id":"sh/cj6tovah","slide":21,"bbox":[92,527,250,52]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":21,"text":"Safety","textPreview":"Safety","textChars":6,"textLines":1,"bbox":[102,535,230,40]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":21,"bbox":[342,527,760,52]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":21,"text":"No uncontrolled data movement, no source-free technical recommendations","textPreview":"No uncontrolled data movement, no source-free technical recommendations","textChars":71,"textLines":1,"bbox":[352,535,740,40]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":21,"bbox":[92,215,1010,364]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":21,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":21,"text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/zd1xyr","slide":21,"text":"This slide is a guardrail. We define success in operational terms: linkage, defect insight, speed, quantified value, adoption, and safety. Even if the first predictive model is basic, the pilot can be successful if it builds the data spine and identifies controllable losses."}
+{"kind":"slide","id":"sl/luynbr","slide":22,"title":"DECISION","textShapes":9}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":22,"text":"DECISION","textPreview":"DECISION","textChars":8,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/lwval87e","slide":22,"text":"Approve the pilot and create the AI learning loop","textPreview":"Approve the pilot and create the AI learning loop","textChars":49,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":22,"text":"A small approved start is the fastest path to a serious AI transformation.","textPreview":"A small approved start is the fastest path to a serious AI transformation.","textChars":74,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":22,"bbox":[56,192,1120,1]}
+{"kind":"shape","id":"sh/loj2t83i","slide":22,"bbox":[500,215,590,300]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":22,"text":"Board decision requested","textPreview":"Board decision requested","textChars":24,"textLines":1,"bbox":[535,250,470,32]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":22,"text":"- Approve 12-week read-only pilot\n- Assign sponsor and cross-functional owners\n- Authorize controlled data discovery\n- Review results and scale decision after pilot\n- Use results for funding and long-term AI platform case","textPreview":"- Approve 12-week read-only pilot | - Assign sponsor and cross-functional owners | - Authorize controlled data discovery | - Review resul...","textChars":221,"textLines":5,"bbox":[535,320,460,150]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":22,"text":"AI is no longer optional. The question is whether we learn first, or wait until competitors do.","textPreview":"AI is no longer optional. The question is whether we learn first, or wait until competitors do.","textChars":95,"textLines":1,"bbox":[150,565,960,44]}
+{"kind":"textbox","id":"sh/knih4byh","slide":22,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":22,"text":"Image source: Klevers public media library","textPreview":"Image source: Klevers public media library","textChars":42,"textLines":1,"bbox":[410,682,670,18]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":22,"text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"image","id":"im/byhgn29g","slide":22,"name":"","alt":"Klevers technical textile image","bbox":[70,215,360,300]}
+{"kind":"notes","id":"nt/luynbr","slide":22,"text":"Close calmly and decisively. Ask for the pilot approval, not a vague endorsement. The final sentence should land as a strategic point: the risk is not starting small; the risk is waiting until the company's knowledge advantage remains locked in documents and individual memories while competitors learn faster."}
+{"kind":"slide","id":"sl/58op75","slide":23,"title":"APPENDIX","textShapes":7}
+{"kind":"textbox","id":"sh/032lszqt","slide":23,"text":"APPENDIX","textPreview":"APPENDIX","textChars":8,"textLines":1,"bbox":[56,34,360,24]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":23,"text":"Key public sources used for this board deck","textPreview":"Key public sources used for this board deck","textChars":43,"textLines":1,"bbox":[56,56,1080,88]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":23,"text":"The detailed strategy report contains the full source-backed opportunity map.","textPreview":"The detailed strategy report contains the full source-backed opportunity map.","textChars":77,"textLines":1,"bbox":[56,148,980,38]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":23,"bbox":[56,192,1120,1]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":23,"text":"- Darmstaedter: Unternehmen, Beschichtungen, Entwicklung, Qualitaet, public media library\n- Klevers: Unternehmen, Lieferprogramm, Garne und Zwirne, Glas Hochtemperatur, Beschichtungen, Qualitaet, Projekte\n- Funding: ZIM, Bescheinigungsstelle Forschungszulage, NRW.BANK MID, BAFA EEW, Eurostars, Horizon Europe, EIC Accelerator\n- Internal assumptions to verify: ERP/INTEX, inspection/ELSIS, PLC/HMI exports, roll/order linkage, defect label quality","textPreview":"- Darmstaedter: Unternehmen, Beschichtungen, Entwicklung, Qualitaet, public media library | - Klevers: Unternehmen, Lieferprogramm, Garne...","textChars":447,"textLines":4,"bbox":[110,225,980,220]}
+{"kind":"textbox","id":"sh/bulwval8","slide":23,"text":"Use the companion Markdown report as the detailed leave-behind after the presentation.","textPreview":"Use the companion Markdown report as the detailed leave-behind after the presentation.","textChars":86,"textLines":1,"bbox":[110,520,960,30]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":23,"text":"Darmstaedter + Klevers AI Transformation","textPreview":"Darmstaedter + Klevers AI Transformation","textChars":40,"textLines":1,"bbox":[56,682,420,18]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":23,"text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1168,682,48,18]}
+{"kind":"notes","id":"nt/58op75","slide":23,"text":"This is an appendix slide. You do not need to present it unless asked about evidence. It shows that the deck was built from public company sources and current funding sources, while clearly separating internal assumptions that need verification."}
