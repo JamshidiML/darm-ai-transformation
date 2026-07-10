@@ -1,6 +1,104 @@
+# Operating-system and temporary files
 .DS_Store
 Thumbs.db
 *.tmp
 *.temp
 ~$*
 
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.jks
+*.keystore
+secrets/
+credentials/
+**/secrets.*
+**/credentials.*
+
+# Local databases and data extracts
+*.db
+*.sqlite
+*.sqlite3
+*.duckdb
+*.parquet
+*.feather
+*.arrow
+*.avro
+*.orc
+*.h5
+*.hdf5
+
+# Sensitive company data directories
+# Keep real operational data in approved company infrastructure, not GitHub.
+data/raw/
+data/interim/
+data/processed/
+data/external/
+secure-data/
+company-data/
+operational-data/
+exports/
+intEX-exports/
+intex-exports/
+elsis-exports/
+elsis-images/
+inspection-images/
+customer-data/
+employee-data/
+complaints-data/
+formulations/
+recipes-confidential/
+
+# Common operational export patterns
+*_ERP_export.*
+*_INTEX_export.*
+*_ELSIS_export.*
+*_customer_export.*
+*_employee_export.*
+*_complaint_export.*
+*_production_export.*
+*_qc_export.*
+*_lab_export.*
+
+# Large model/data artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.joblib
+*.pkl
+*.pickle
+mlruns/
+wandb/
+models/local/
+artifacts/local/
+
+# Local application state
+logs/
+.cache/
+local/
+scratch/
+
+# IDE files
+.vscode/settings.local.json
+.idea/
