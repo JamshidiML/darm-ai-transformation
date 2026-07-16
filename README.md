@@ -1,10 +1,10 @@
 # Darmstädter + Klevers AI Transformation Program
 
-This private repository is the strategy, governance, execution, architecture, and evidence hub for the Darmstädter + Klevers AI Transformation Program.
+This private repository is the strategy, governance, execution, architecture, evidence, and prototype hub for the Darmstädter + Klevers AI Transformation Program.
 
 The objective is not to deploy isolated AI tools. The objective is to convert technical-textile know-how, materials knowledge, process evidence, quality data, laboratory results, certifications, inspection information, supplier knowledge, and expert experience into a secure and measurable industrial intelligence capability.
 
-> **Current program status:** Foundation and discovery preparation. The next formal step is management approval for a two-week, read-only data discovery sprint.
+> **Current program status:** Gate 0 management package complete; Gate 1 discovery execution kit and synthetic Roll Quality Passport prototype ready. The next external dependency is formal management authorization and controlled read-only access.
 
 ## Strategic recommendation
 
@@ -24,27 +24,41 @@ The initial program does **not** include machine control, ERP writeback, autonom
 
 ## Start here
 
-### Management
+### Management and Gate 0
 
 - [German management one-pager](deliverables/de/MANAGEMENT_ONE_PAGER_DE.md)
+- [German management meeting agenda and speaking script](07-gate-0-management/MEETING_AGENDA_AND_SPEAKING_SCRIPT_DE.md)
+- [Discovery approval record](07-gate-0-management/DISCOVERY_APPROVAL_RECORD.md)
+- [Stakeholder nomination and access request](07-gate-0-management/STAKEHOLDER_NOMINATION_AND_ACCESS_REQUEST.md)
 - [English management one-pager](deliverables/en/MANAGEMENT_ONE_PAGER_EN.md)
 - [Corporate AI transformation strategy](01-strategy/AI_TRANSFORMATION_STRATEGY_CORPORATE.md)
+
+### Discovery team
+
+- [Discovery kickoff and daily plan](08-discovery-execution/DISCOVERY_KICKOFF_AND_DAILY_PLAN.md)
+- [Source audit workbook](08-discovery-execution/SOURCE_AUDIT_WORKBOOK.md)
+- [Stakeholder interview guides](08-discovery-execution/STAKEHOLDER_INTERVIEW_GUIDES.md)
+- [Cross-system linkage test specification](08-discovery-execution/CROSS_SYSTEM_LINKAGE_TEST_SPEC.md)
+- [Gate 1 discovery report template](08-discovery-execution/GATE_1_DISCOVERY_REPORT_TEMPLATE.md)
+- [Data discovery playbook](02-data-discovery/DATA_DISCOVERY_PLAYBOOK.md)
+
+### Program governance
+
 - [Program charter](00-program-governance/AI_TRANSFORMATION_CHARTER.md)
-
-### Program team
-
 - [RACI and stakeholder model](00-program-governance/RACI_AND_STAKEHOLDERS.md)
 - [Risk register and decision log](00-program-governance/RISK_REGISTER_AND_DECISION_LOG.md)
-- [Data discovery playbook](02-data-discovery/DATA_DISCOVERY_PLAYBOOK.md)
 - [Pilot charter and work plan](03-quality-intelligence-pilot/PILOT_CHARTER_AND_WORKPLAN.md)
 
 ### Technical and data team
 
-- [Roll Quality Passport schema](03-quality-intelligence-pilot/ROLL_QUALITY_PASSPORT_SCHEMA.md)
+- [Roll Quality Passport business schema](03-quality-intelligence-pilot/ROLL_QUALITY_PASSPORT_SCHEMA.md)
 - [Technical-textile defect taxonomy v0.1](03-quality-intelligence-pilot/DEFECT_TAXONOMY_V0.1.md)
 - [Target architecture](04-architecture/TARGET_ARCHITECTURE.md)
 - [AI governance, security, privacy, and IP controls](04-architecture/AI_GOVERNANCE_SECURITY_AND_IP.md)
-- [Prototype workspace](06-prototype/README.md)
+- [Synthetic prototype workspace](06-prototype/README.md)
+- [Machine-readable Roll Quality Passport schema](06-prototype/schemas/roll_quality_passport.schema.json)
+- [Synthetic passport examples](06-prototype/synthetic_data/roll_quality_passports.jsonl)
+- [Passport validator](06-prototype/src/validate_passports.py)
 
 ### Business case and funding
 
@@ -88,7 +102,23 @@ The personal leadership document is intentionally separated from the corporate m
 │   └── FUNDING_AND_PARTNER_STRATEGY.md
 │
 ├── 06-prototype/
-│   └── README.md
+│   ├── README.md
+│   ├── schemas/
+│   ├── synthetic_data/
+│   ├── src/
+│   └── tests/
+│
+├── 07-gate-0-management/
+│   ├── MEETING_AGENDA_AND_SPEAKING_SCRIPT_DE.md
+│   ├── DISCOVERY_APPROVAL_RECORD.md
+│   └── STAKEHOLDER_NOMINATION_AND_ACCESS_REQUEST.md
+│
+├── 08-discovery-execution/
+│   ├── DISCOVERY_KICKOFF_AND_DAILY_PLAN.md
+│   ├── SOURCE_AUDIT_WORKBOOK.md
+│   ├── STAKEHOLDER_INTERVIEW_GUIDES.md
+│   ├── CROSS_SYSTEM_LINKAGE_TEST_SPEC.md
+│   └── GATE_1_DISCOVERY_REPORT_TEMPLATE.md
 │
 ├── deliverables/
 │   ├── de/
@@ -98,14 +128,9 @@ The personal leadership document is intentionally separated from the corporate m
 │   └── MOHSEN_AI_LEADERSHIP_STRATEGY.md
 │
 ├── docs/
-│   ├── ARTIFACT_INDEX_FA.md
-│   └── PROJECT_PROCESS_FA.md
-│
-└── outputs/
-    ├── AI_TRANSFORMATION_STRATEGY_REPORT.md
-    ├── board presentations
-    ├── PDF and preview artifacts
-    └── presentation QA outputs
+├── outputs/
+└── .github/workflows/
+    └── prototype-validation.yml
 ```
 
 ---
@@ -117,10 +142,12 @@ The personal leadership document is intentionally separated from the corporate m
 Decision requested:
 
 - executive sponsor;
-- AI transformation lead;
+- AI Transformation Lead;
 - cross-functional team;
 - controlled read-only data access;
 - approval for a two-week discovery sprint.
+
+**Repository readiness:** complete. The meeting script, approval form, nomination table, and minimum-access request are prepared.
 
 ### Gate 1 — Discovery
 
@@ -137,6 +164,8 @@ Outputs:
 - selected line and product family;
 - pilot architecture, budget, risks, and value case;
 - go/revise/stop recommendation.
+
+**Repository readiness:** complete. Daily plan, audit workbook, interview guides, linkage specification, and final report template are prepared.
 
 ### Gate 2 — Roll Quality Intelligence pilot
 
@@ -158,7 +187,7 @@ Deliverables:
 - evidence-linked root-cause support;
 - management dashboard;
 - quantified improvement opportunities;
-- recommendation on predictive quality and CV expansion.
+- recommendation on predictive quality and computer-vision expansion.
 
 ### Gate 3 — Scale decision
 
@@ -170,6 +199,32 @@ Potential next workstreams:
 - supplier/material substitution intelligence;
 - expanded computer vision;
 - production, maintenance, energy, and planning intelligence.
+
+---
+
+## Synthetic technical prototype
+
+The repository includes a working synthetic-only passport prototype with:
+
+- JSON Schema contract;
+- four representative synthetic records;
+- validation CLI using only the Python standard library;
+- unit tests;
+- GitHub Actions validation.
+
+Run locally:
+
+```bash
+python 06-prototype/src/validate_passports.py \
+  06-prototype/synthetic_data/roll_quality_passports.jsonl
+
+python -m unittest discover \
+  -s 06-prototype/tests \
+  -p 'test_*.py' \
+  -v
+```
+
+The prototype rejects non-synthetic records by design. It must not be used as a path for uploading real company data to GitHub.
 
 ---
 
@@ -192,7 +247,7 @@ Potential next workstreams:
 
 This repository is private and should remain access-restricted.
 
-### Allowed in this repository
+### Allowed
 
 - strategy and governance documents;
 - architecture records;
@@ -204,14 +259,15 @@ This repository is private and should remain access-restricted.
 
 ### Do not commit
 
-- real ERP exports;
-- real ELSIS inspection images/events unless separately approved and stored appropriately;
+- real ERP or INTEX exports;
+- real ELSIS inspection images/events;
 - customer-identifiable records;
 - employee emails or performance data;
 - formulations, recipe percentages, or confidential process windows;
 - supplier pricing;
 - credentials, tokens, keys, passwords, certificates, or connection strings;
-- unredacted complaints, QC reports, or sensitive laboratory records.
+- unredacted complaints, QC reports, or sensitive laboratory records;
+- databases or models created from company data.
 
 Sensitive operational data must remain in approved company infrastructure with role-based access, retention rules, and auditability.
 
@@ -219,31 +275,23 @@ Sensitive operational data must remain in approved company infrastructure with r
 
 ## Original strategy artifacts
 
-The original comprehensive strategy package remains available under `outputs/` and includes:
+The original comprehensive strategy package remains under `outputs/`, including the strategy report, board presentations, Persian working versions, PDFs, rendered previews, structural inspection outputs, and source assets.
 
-- `outputs/AI_TRANSFORMATION_STRATEGY_REPORT.md`
-- English board presentation with speaker notes
-- Persian editable presentation
-- Persian PDF
-- rendered previews and montages
-- structural inspection outputs
-- source assets
-
-The original report is an internal working source. For management use, prefer the corporate strategy and German/English one-pagers in the execution structure above because the personal career strategy has been separated.
+For management use, prefer the corporate strategy, German/English one-pagers, and Gate 0 documents because personal career content is separated.
 
 ---
 
 ## Immediate operational backlog
 
-1. Secure management approval for Gate 0.
-2. Nominate sponsor and workstream owners.
-3. Run the INTEX export and identifier audit.
-4. Run the ELSIS data/image/export audit.
-5. Inventory QC and laboratory data.
-6. Inventory production parameters and historical availability.
-7. Establish the Finance-approved quality-cost baseline.
-8. Test linkage across representative rolls.
-9. Score and select the pilot line/product family.
-10. Prepare the Gate 1 management decision package.
+1. Hold the Gate 0 management meeting.
+2. Record approval, conditions, sponsor, and owners.
+3. Confirm the approved discovery workspace and transfer routes.
+4. Run the INTEX audit.
+5. Run the ELSIS audit.
+6. Inventory QC/lab and production data.
+7. Establish the Finance-approved baseline.
+8. Execute the cross-system linkage test.
+9. Validate the defect taxonomy and select the pilot scope.
+10. Produce the Gate 1 go/revise/stop decision package.
 
-GitHub issues are used to track these workstreams.
+GitHub issues #1–#10 track these workstreams.
